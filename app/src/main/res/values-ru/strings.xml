@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лаба3</string>
+    <string name="button" translatable="false">Далее</string>
+    <string name="enterText" translatable="false">Введите текст</string>
+    <string name="close_app" translatable="false">Закрыть приложение</string>
+    <string name="check" translatable="false">Вы уверены, что хотите выйти?</string>
+    <string name="yesButton" translatable="false">Да</string>
+    <string name="noButton" translatable="false">Нет</string>
+</resources>

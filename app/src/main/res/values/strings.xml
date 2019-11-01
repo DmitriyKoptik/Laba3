@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Laba3</string>
+    <string name="button" translatable="false">Next</string>
+    <string name="enterText" translatable="false">Enter text</string>
+    <string name="close_app" translatable="false">Close app</string>
+    <string name="check" translatable="false">Are you sure you want to quit?</string>
+    <string name="yesButton" translatable="false">Yes</string>
+    <string name="noButton" translatable="false">No</string>
+</resources>
